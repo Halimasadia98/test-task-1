@@ -1,0 +1,75 @@
+button{
+font-family: 'Montserrat', sans-serif;
+margin: 12px;
+}
+#btn1{
+    background-color: #c63928;
+    color: white;
+    border: none;
+    font-size: 1.1em;
+    font-family: 'Montserrat', sans-serif;
+    padding: 1em 3em;
+    }
+#btn1:hover{
+    background-color: #ed4c4f;
+}
+#btn2{
+    background-color: #fdd835;
+    color: #2a61fb;
+    border-color: #2a61fb;
+    border-style: solid;
+    border-width: 3px;
+    padding: 10px 20px ;
+    font-family: 'Gugi', cursive;
+    font-size: 1.3em;
+}
+#btn2:hover{
+    background-color: #2a61fb;
+    color: #fdd835;
+}
+#btn3{
+    border-radius: 25px;
+    border: none;
+    background-image: linear-gradient(to right,#5bd0d7,#8ad29c);
+    color: white;
+    padding: 12px 38px;
+}
+
+#btn5{
+    background-image: linear-gradient(to top,#f5a332,#fac733);
+    padding: 12px 2em;
+    border:2px solid#f5a332;
+    border-radius: 5px;
+    color: white;
+    text-shadow: 1px 1px 2px gray;
+    font-size: 18px;
+}
+#btn5:hover{
+    background-color: #f5a332;
+    background-image: none;
+
+}
+#btn4{
+    color: #6749ea;
+    background-color: white;
+    border: 3px solid#6749ea;
+    padding: 10px 20px;
+    border-radius: 7px;
+    font-size: 1.2em;
+}
+#btn4:hover{
+    background-color: #6749ea;
+    color: white;
+}
+#btn6{
+    background-color: white;
+    color: #37a1f3;
+    border: 2px solid #37a1f3;
+    border-radius: 80px;
+    padding: 10px 13px;
+    font-size: 1.2em;
+}
+#btn6:hover{
+    background-color: #37a1f3;
+    color:white; 
+}
